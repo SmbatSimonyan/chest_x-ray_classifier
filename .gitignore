@@ -1,0 +1,76 @@
+# Byte-compiled files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual Environments
+venv/
+env/
+ENV/
+.venv/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# VS Code
+.vscode/
+
+# PyCharm
+.idea/
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+desktop.ini
+
+# Python cache
+*.pyo
+*.pyd
+
+# TensorFlow
+logs/
+checkpoints/
+saved_model/
+*.h5
+*.keras
+*.ckpt
+
+# Model Weights
+models/
+weights/
+
+# Dataset
+dataset/
+data/
+train/
+test/
+validation/
+
+# Images
+*.png
+*.jpg
+*.jpeg
+*.bmp
+
+# Environment Variables
+.env
+
+# Build
+build/
+dist/
+*.egg-info/
+
+# Cache
+.cache/
+
+# Temporary Files
+*.tmp
+*.log
+
+# Google Colab
+/content/
+
+# Jupyter Runtime
+*.nbconvert.ipynb
